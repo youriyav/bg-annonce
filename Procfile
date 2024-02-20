@@ -1,0 +1,1 @@
+web: gunicorn bg_annonce.wsgi --log-file
